@@ -196,3 +196,26 @@ Jadavpur University
 ⭐ *Exploring Power Electronics, Embedded Systems and Electrical Engineering Innovations.*
 
 **Note:** Arduino source code is not included in this repository because it is not currently available. The documentation is based on the project report.
+---
+
+## 🖼️ Project Diagrams & Experimental Setup
+
+### 1. System Block Diagram
+
+![APFC Block Diagram](block-diagram-page-7.png)
+
+*Reference: Project Report, Page 7*
+
+### 2. Circuit Diagram and Hardware Implementation
+
+![APFC Circuit Diagram and Hardware](circuit-diagram-and-hardware-page-17.png)
+
+*Reference: Project Report, Page 17*
+
+### 3. Experimental Observation
+
+![Experimental Observation](experimental-observation-page-18.png)
+
+*Reference: Project Report, Page 18*
+
+---
